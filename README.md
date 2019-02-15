@@ -2,9 +2,9 @@
 Proximity matrix generator for numeric dataset.
 
 # Input
-File (txt / csv)
-Choose separator (spaces / comma)
-Choose method
+- File (txt / csv)
+- Choose separator (spaces / comma)
+- Choose method
 
 # Methods
 - Euclidean Distance
